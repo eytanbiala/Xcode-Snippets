@@ -1,6 +1,4 @@
 // Objective-C -init Method
-//
-// IDECodeSnippetCompletionPrefix: init
 // Initialize an object.
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
