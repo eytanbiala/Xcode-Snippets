@@ -1,7 +1,10 @@
 // UIControlEventTouchUpInside
 // 
-// Platform: iOS
+//
+// IDECodeSnippetIdentifier: C0BA7FEB-2659-4760-8A78-61CBF39BF9DA
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Code Expression
+// Platform: iOS
 
 UIControlEventTouchUpInside
