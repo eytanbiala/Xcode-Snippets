@@ -10,7 +10,7 @@
     [self GET:request.path parameters:nil].then(^(OVCResponse *response) {
 
         <#Type#> *<#name#> = response.result;
-        return {{}}
+        return <#name#>
     }).catch(^(NSError *error) {
         
     }).finally(^{
