@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 0
     [self GET:request.path parameters:nil].then(^(OVCResponse *response) {
 
-        <# and #><# and #> *obj = response.result;
+        <#T *obj = response.result;
         return {{}}
     }).catch(^(NSError *error) {
         
