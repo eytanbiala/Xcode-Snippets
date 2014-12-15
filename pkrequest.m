@@ -7,7 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-    [self GET:request.path parameters:nil].then(^(OVCResponse *response) {
+IQMRequest *request = [IQ]
+[self GET:request.path parameters:nil].then(^(OVCResponse *response) {
 
         <#Type#> *<#name#> = response.result;
         return <#name#>
