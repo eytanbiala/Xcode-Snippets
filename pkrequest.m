@@ -1,6 +1,7 @@
 // pkrequest
-// 
+// Overcoat Request with Promise
 //
+// IDECodeSnippetCompletionPrefix: pkrequest
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: AA8F6AEC-BD09-4297-B27A-B27A0ECA89CA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
