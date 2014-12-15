@@ -9,7 +9,8 @@
 // IDECodeSnippetVersion: 0
     [self GET:request.path parameters:nil].then(^(OVCResponse *response) {
 
-        return respon
+        id obj = res[]
+        return
     }).catch(^(NSError *error) {
         
     }).finally(^{
