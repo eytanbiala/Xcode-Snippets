@@ -1,4 +1,4 @@
-// pkrequest
+// PromiseKit HTTP request
 // Overcoat Request with Promise
 //
 // IDECodeSnippetCompletionPrefix: pkrequest
@@ -9,6 +9,7 @@
 // IDECodeSnippetVersion: 0
     [self GET:request.path parameters:nil].then(^(OVCResponse *response) {
 
+        return respon
     }).catch(^(NSError *error) {
         
     }).finally(^{
